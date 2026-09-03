@@ -29,33 +29,26 @@ The website combines a premium visual design with interactive shopping features,
 ⌨️ Keyboard-friendly navigation
 🌙 Reduced-motion support
 🎯 Main Sections
-Hero
 
+Hero-
 A cinematic full-screen hero section introduces the brand with the headline:
-
 Engineered for Recovery. Designed for Life.
-
 It highlights premium orthopedic and mobility products delivered across the UAE and provides two primary actions:
-
 Shop Best Sellers
 Take the Pain Quiz
-
 The hero uses a fading image slider with autoplay and pagination.
 
 📊 Business Highlights
-
 A floating glass-style statistics card highlights:
-
 10,000+ UAE customers
 4.9/5 average rating
 910+ products in stock
 7 Emirates covered
-🩺 Shop by Concern
 
+🩺 Shop by Concern
 The website provides a visual way for users to find products based on their condition or area of discomfort.
 
 Available sections include:
-
 Back & Neck
 Knee & Joint
 Foot & Ankle
@@ -64,16 +57,13 @@ Post-Surgery
 This section is designed to simplify product discovery by starting with the user's needs rather than the product name.
 
 ⭐ Trending Products
-
 A responsive Swiper.js product carousel showcases popular products such as:
-
 Neoprene Knee Support
 Lumbo Sacral Support Belt
 Adjustable Walking Stick
 Soft Cervical Collar
 
 Each product includes:
-
 Brand
 Product name
 Rating
@@ -85,9 +75,7 @@ Add-to-cart button
 The carousel automatically adapts between desktop and mobile layouts.
 
 ♿ Active Mobility
-
 A dedicated collection focused on mobility and independence, featuring products such as:
-
 Wheelchairs
 Rollators
 Transfer aids
@@ -95,9 +83,7 @@ Transfer aids
 The section encourages users to explore mobility products designed for everyday movement.
 
 💪 Everyday Support
-
 A second collection focused on everyday orthopedic support, including:
-
 Braces
 Belts
 Compression wear
@@ -105,9 +91,7 @@ Compression wear
 The section emphasizes comfortable products designed for daily use.
 
 🤝 Official Distribution Partners
-
 The website includes a continuously scrolling brand marquee featuring:
-
 Tynor
 E-Life
 AkcesMED
@@ -116,11 +100,8 @@ Henrotek
 The marquee pauses when hovered and provides a visual brand-partner showcase.
 
 💬 Specialist Consultation
-
 A dedicated CTA allows customers who are unsure about the right product to contact a specialist through WhatsApp.
-
 Users are encouraged to share:
-
 Prescription
 X-ray
 Photo
@@ -128,9 +109,7 @@ Photo
 A specialist can then help identify the appropriate model and size.
 
 🛒 Shopping Cart
-
 The website includes an interactive slide-out cart.
-
 Cart Features
 Open/close cart drawer
 Product quantities
@@ -144,10 +123,9 @@ Overlay interaction
 Escape-key support
 Focus trapping for accessibility
 The cart dynamically calculates the subtotal and updates the free-delivery progress based on a AED 300 threshold.
+
 📱 Responsive Experience
-
 The website is designed for different screen sizes with:
-
 Desktop navigation
 Mobile hamburger menu
 Mobile bottom navigation
@@ -157,15 +135,13 @@ Mobile-friendly shopping cart
 Touch-enabled sliders
 
 The mobile navigation provides quick access to:
-
 Home
 Categories
 Cart
 WhatsApp
+
 🎨 Design System
-
 The project uses a premium healthcare-inspired visual style featuring:
-
 Teal accent colors
 Slate and white backgrounds
 Glassmorphism effects
@@ -194,9 +170,7 @@ Google Fonts / Outfit — typography
 These dependencies are loaded through CDN resources in the HTML file.
 
 ♿ Accessibility
-
 Accessibility considerations included in the project:
-
 Semantic navigation
 ARIA labels
 ARIA-expanded states
